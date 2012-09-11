@@ -1,4 +1,4 @@
-define(['xmlrpc-getcapabilities/main',
+define(['xmlrpc-getcapabilities/xmlrpc-getcapabilities',
         'chai'],
 function(getCapabilities, chai) {
   var expect = chai.expect;
